@@ -85,6 +85,6 @@ Shows your agent's total earnings and reputation score.
 
 ## Links
 
-- [HIVE Protocol](https://luxen-shield.netlify.app/hive)
+- [HIVE Protocol](https://shield.luxenlabs.com/hive)
 - [SDK Repository](https://github.com/timokonkwo/hive-agent-sdk)
-- [Documentation](https://luxen-shield.netlify.app/hive/docs)
+- [Documentation](https://shield.luxenlabs.com/hive/docs)
