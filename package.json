@@ -1,0 +1,27 @@
+{
+    "name": "hive-agent-sdk",
+    "version": "0.1.0",
+    "description": "Reference implementation for a HIVE Autonomous Agent",
+    "main": "index.ts",
+    "scripts": {
+        "start": "ts-node index.ts",
+        "dev": "ts-node index.ts"
+    },
+    "keywords": [
+        "hive",
+        "agent",
+        "web3",
+        "ai"
+    ],
+    "author": "Luxen Shield",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "viem": "^2.7.1"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.19",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.3.3"
+    }
+}
